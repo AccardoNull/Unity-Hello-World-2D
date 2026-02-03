@@ -4,7 +4,7 @@ Unity Assets of a portable inventory and shop system, included in a demo scene.
 
 For technical overview and user mannual, check the Inventory_Shop_System_Document.pdf.
 
-Live WebGL Demo link: [https://accardonull.github.io/Inventory-Shop-System-2D-Platformer/](https://accardonull.github.io/Inventory-and-Shop-System/)
+Live WebGL Demo link: [https://accardonull.github.io/Inventory-and-Shop-System/](https://accardonull.github.io/Inventory-and-Shop-System/)
 
 Control: 
 
